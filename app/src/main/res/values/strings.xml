@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Emosic</string>
+
+    <!-- Emotion subscription key -->
+    <string name="subscription_key">805419729a924fdc9d63eecbe8fee149</string>
+
+    <!-- Face subscription key -->
+    <string name="faceSubscription_key">e2d7fb5c0ba94c2ea4019ce0d45f975b</string>
+
+    <!-- Display strings -->
+    <string name="add_subscription_key_tip_title">Subscription Key is Needed</string>
+    <string name="add_subscription_key_tip">Please put your two subscription keys for Emotion API/Face API to source file \"app/res/values/strings.xml\" to enable Emotion API and Face API calls.</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_analyze">Emosic</string>
+    <string name="title_activity_recognize">Emosic</string>
+    <string name="title_activity_play">Emosic</string>
+    <string name="title_activity_thumbnail">ThumbnailActivity</string>
+
+    <!-- Select image activity -->
+    <string name="select_an_image">Select an Image</string>
+    <string name="take_photo">Take a Photo</string>
+    <string name="select_image_in_album">Select From Gallery</string>
+
+</resources>

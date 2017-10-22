@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manasi\AndroidStudioProjects\Cognitive-Emotion-Android-master\Sample\app\build\intermediates\exploded-aar\com.microsoft.projectoxford\emotion\1.0.0\jars\libs\commons-io-2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="C:\Users\Manasi\AndroidStudioProjects\Cognitive-Emotion-Android-master\Sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\commons-io-2.4_522efc40e6ffaac2824f3a9e37712fada878175e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manasi\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\Manasi\AndroidStudioProjects\Cognitive-Emotion-Android-master\Sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-21.0.3_b2b748d84e53393dd7b0eec5342f663ad1784108\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manasi\AndroidStudioProjects\Emotion project2\Sample\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\Manasi\AndroidStudioProjects\Emotion project2\Sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-21.0.3_2a2936dab26af931e015f672876a2c89b7f981e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manasi\AndroidStudioProjects\Emotion project2\Sample\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="b836691c4362b85fc9dc029823f143f867ae2c26">
+        <dex dex="C:\Users\Manasi\AndroidStudioProjects\Emotion project2\Sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_30438c01396ffd7e2b0bf81666de1c03aabcacd6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manasi\AndroidStudioProjects\Cognitive-Emotion-Android-master\Sample\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\Manasi\AndroidStudioProjects\Cognitive-Emotion-Android-master\Sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-21.0.3_d5157ca3f7304e428d3acdd9a691c753642b4fb2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manasi\AndroidStudioProjects\Emotion project2\Sample\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\Manasi\AndroidStudioProjects\Emotion project2\Sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-21.0.3_ad725f73f163bf65100a96b1cee7c43b3c098b17\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manasi\AndroidStudioProjects\Emotion project2\Sample\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\Manasi\AndroidStudioProjects\Emotion project2\Sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-21.0.3_29129d02b5135882d08d9ad388a44dea7671e4e0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manasi\AndroidStudioProjects\Emotion project2\Sample\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="817aa08d81aab7f3dd51b6dc22672149eae23705">
+        <dex dex="C:\Users\Manasi\AndroidStudioProjects\Emotion project2\Sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_5babd7327628c8ef00a64fcf18caa30909926a85\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manasi\AndroidStudioProjects\Cognitive-Emotion-Android-master\Sample\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="f1a0ae82fef201c7289ff26b2e3861a05f782a8e">
+        <dex dex="C:\Users\Manasi\AndroidStudioProjects\Cognitive-Emotion-Android-master\Sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_757ea919706a13511eb32850d55232eb2282e4f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manasi\AndroidStudioProjects\Cognitive-Emotion-Android-master\Sample\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\Manasi\AndroidStudioProjects\Cognitive-Emotion-Android-master\Sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-21.0.3_8940890a4c9ff13eaa1b447c673aec1faed6d8e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manasi\AndroidStudioProjects\Cognitive-Emotion-Android-master\Sample\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="05ee5b80c4a835386f6b66041530b3b35c620386">
+        <dex dex="C:\Users\Manasi\AndroidStudioProjects\Cognitive-Emotion-Android-master\Sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_4bdc8251e4680ea5b939b20863cb40e8dcb8c409\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manasi\AndroidStudioProjects\Emotion project2\Sample\app\build\intermediates\exploded-aar\com.microsoft.projectoxford\emotion\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="85580f7e643f4e319878f282874afccc3b1b95ed">
+        <dex dex="C:\Users\Manasi\AndroidStudioProjects\Emotion project2\Sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.microsoft.projectoxford-emotion-1.0.0_6143f31e3ba06e2849094ed957541e669ee2928d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manasi\AndroidStudioProjects\Cognitive-Emotion-Android-master\Sample\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\Manasi\AndroidStudioProjects\Cognitive-Emotion-Android-master\Sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-21.0.3_add6d21326d290865b02c346640c8390d8d684fd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manasi\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.5\686c608d1805b6d4d425ec4459e88164ffc85870\gson-2.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="686c608d1805b6d4d425ec4459e88164ffc85870">
+        <dex dex="C:\Users\Manasi\AndroidStudioProjects\Cognitive-Emotion-Android-master\Sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.5_5ea7f8217f7a7bc74ebe56b25f9dc2b7b4de9c78\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manasi\AndroidStudioProjects\Cognitive-Emotion-Android-master\Sample\app\build\intermediates\exploded-aar\com.microsoft.projectoxford\emotion\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="85580f7e643f4e319878f282874afccc3b1b95ed">
+        <dex dex="C:\Users\Manasi\AndroidStudioProjects\Cognitive-Emotion-Android-master\Sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.microsoft.projectoxford-emotion-1.0.0_ac1e8f21cd4335a2d744e085504042a1d3399b92\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manasi\.gradle\caches\modules-2\files-2.1\com.readystatesoftware.sqliteasset\sqliteassethelper\2.0.1\d5f02e4a4d65ec0fbb339f2e4228723d1540bb9f\sqliteassethelper-2.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="d5f02e4a4d65ec0fbb339f2e4228723d1540bb9f">
+        <dex dex="C:\Users\Manasi\AndroidStudioProjects\Emotion project2\Sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\sqliteassethelper-2.0.1_e77d8a69c79e584b69ae100f9404a49ea591cd3b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manasi\AndroidStudioProjects\Cognitive-Emotion-Android-master\Sample\app\build\intermediates\exploded-aar\com.microsoft.projectoxford\face\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="b9885b9cbfc39129a13674d39d0cae321fc0dc97">
+        <dex dex="C:\Users\Manasi\AndroidStudioProjects\Cognitive-Emotion-Android-master\Sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.microsoft.projectoxford-face-1.0.0_03298fc50613b83a00a39014ac4f92d68b2651c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manasi\AndroidStudioProjects\Emotion project2\Sample\app\build\intermediates\exploded-aar\com.microsoft.projectoxford\face\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="b9885b9cbfc39129a13674d39d0cae321fc0dc97">
+        <dex dex="C:\Users\Manasi\AndroidStudioProjects\Emotion project2\Sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.microsoft.projectoxford-face-1.0.0_bff79eb2e6ec62f05bcf97a4c4bc2cfd8d1b2791\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manasi\AndroidStudioProjects\Emotion project2\Sample\app\build\intermediates\exploded-aar\com.microsoft.projectoxford\emotion\1.0.0\jars\libs\commons-io-2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="C:\Users\Manasi\AndroidStudioProjects\Emotion project2\Sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\commons-io-2.4_a1ac03f84403e200e5736df88e1b6b845f5561e4\classes.dex" />
+    </item>
+
+</items>
